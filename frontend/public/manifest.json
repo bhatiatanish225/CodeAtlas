@@ -1,0 +1,27 @@
+{
+  "name": "CodeAtlas.AI - Visualize & Understand Any GitHub Repository",
+  "short_name": "CodeAtlas.AI",
+  "description": "Interactive code visualization platform that transforms GitHub repositories into navigable maps with AI-powered insights.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#1f2937",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["developer", "productivity", "utilities"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
